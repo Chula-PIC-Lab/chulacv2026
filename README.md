@@ -11,8 +11,12 @@ https://www.anaconda.com/download/
 https://docs.conda.io/en/latest/miniconda.html
 
 ## Create Conda Enviroment
+```
 conda env create --file environments.yaml
+```
 
 ## Open JupyterLab
+```
 conda activate chulacv2026\
 jupyter-notebook
+```
