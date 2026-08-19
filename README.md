@@ -14,5 +14,5 @@ https://docs.conda.io/en/latest/miniconda.html
 conda env create --file environments.yaml
 
 ## Open JupyterLab
-conda activate chulacv2024\
+conda activate chulacv2026\
 jupyter-notebook
